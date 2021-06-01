@@ -1,3 +1,2 @@
 # MetalOperator
-
-A description of this package.
+A Package used to initialise Metal Filters
